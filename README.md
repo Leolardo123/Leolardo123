@@ -1,8 +1,6 @@
 <a href="https://github.com/Leolardo123">
     <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/>
-    <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60"/>
 </a>
-<br>
 
 <div align="center">
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=leolardo123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>

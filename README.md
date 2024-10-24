@@ -1,3 +1,9 @@
+<a href="https://github.com/Leolardo123">
+    <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/>
+    <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60"/>
+</a>
+<br>
+
 <div align="center">
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=leolardo123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolardo123&layout=compact&langs_count=7&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
@@ -17,3 +23,12 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardo-ferreira-dos-santos-629813181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<p align="center">
+    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FLeolardo123"/></a>
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=Leolardo123&style=for-the-badge&label=Views:&color=gray"/></a>
+    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/Leolardo123?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follows&logoColor=white"/></a>
+</p>
+<a href="#">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=footer">
+</a>

@@ -4,7 +4,7 @@
 
 <div align="center">
  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=leolardo123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolardo123&layout=compact&langs_count=7&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+<img src="https://camo.githubusercontent.com/2157e06322233bc870dc39eb6464d57470d3a62ce4bf440d800864dfa9b0a27f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d6666666c616273266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=leolardo123&amp;layout=compact" style="max-width: 100%;">
 </div>
 
 ##

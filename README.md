@@ -5,7 +5,7 @@
 <div align="center">
  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=leolardo123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolardo123&layout=compact&langs_count=7&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
- <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=leolardo123&theme=tokyonight&hide_border=true"/>
+ <img height="150em" src="https://camo.githubusercontent.com/e034bcf932f5769786f634f09152d77beac3a7e19a8bfe3154377945846218ae/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d526176656e706163267468656d653d64726163756c61" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=leolardo123&theme=dracula" style="max-width: 100%;">
 </div>
 
 ##

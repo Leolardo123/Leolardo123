@@ -1,30 +1,37 @@
-<a href="https://github.com/Leolardo123">
-    <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/>
-</a>
-
 <div align="center">
- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=leolardo123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=leolardo123&amp;layout=compact" style="max-width: 100%;">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=auto&section=header&text=Bem-vindo!&fontSize=30"/>
 </div>
 
-##
-<div align="center" style="display: inline_block"><br>
-  <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leolardo123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=leolardo123&theme=tokyonight&layout=compact"/>
 </div>
 
-##
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/leonardo-ferreira-dos-santos-629813181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>a
+  <h3>Tecnologias</h3>
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/leonardo-ferreira-dos-santos-629813181/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+<br>
 
 <p align="center">
-    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FLeolardo123"/></a>
-    <a href="#"><img src="https://komarev.com/ghpvc/?username=Leolardo123&style=for-the-badge&label=Views:&color=gray"/></a>
-    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/Leolardo123?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follows&logoColor=white"/></a>
+  <img src="https://img.shields.io/github/stars/Leolardo123?style=for-the-badge&color=55960c&label=Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Leolardo123&style=for-the-badge&label=Views&color=blue"/>
+  <img src="https://img.shields.io/github/followers/Leolardo123?style=for-the-badge&color=236ad3&label=Followers"/>
 </p>
-<a href="#">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=footer">
-</a>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=auto&section=footer"/>
+</div>

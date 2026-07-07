@@ -3,34 +3,53 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leolardo123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=leolardo123&theme=tokyonight&layout=compact"/>
+  <img src="https://metrics.lecoq.io/leolardo123?base=header,activity,community,repositories&plugin_languages=yes&plugin_languages_sections=most-used&plugin_languages_details=percentage"/>
 </div>
 
 ---
 
 <div align="center">
-  <h3>Tecnologias</h3>
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
+  <h2>🛠️ Tecnologias e Ferramentas</h2>
+  
+  <p><strong>Linguagens</strong></p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  
+  <br><br>
+  <p><strong>Back-end</strong></p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  
+  <br><br>
+  <p><strong>Front-end & Banco de Dados</strong></p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </div>
 
 ---
 
 <div align="center">
+  <h2>📞 Contato</h2>
+  
+  <!-- Redes Sociais -->
   <a href="https://www.linkedin.com/in/leonardo-ferreira-dos-santos-629813181/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <br><br>
 </div>
 
-<br>
+--- 
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Leolardo123?style=for-the-badge&color=55960c&label=Stars"/>
-  <img src="https://komarev.com/ghpvc/?username=Leolardo123&style=for-the-badge&label=Views&color=blue"/>
-  <img src="https://img.shields.io/github/followers/Leolardo123?style=for-the-badge&color=236ad3&label=Followers"/>
-</p>
+<div align="center">
+  <h2> 📊 Estatísticas </h2>
+  <!-- Status do GitHub -->
+  <p>
+    <img src="https://img.shields.io/github/stars/Leolardo123?style=for-the-badge&color=55960c&label=Stars"/>
+    <img src="https://komarev.com/ghpvc/?username=Leolardo123&style=for-the-badge&label=Views&color=007ACC"/>
+    <img src="https://img.shields.io/github/followers/Leolardo123?style=for-the-badge&color=236ad3&label=Followers"/>
+  </p>
+</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=auto&section=footer"/>

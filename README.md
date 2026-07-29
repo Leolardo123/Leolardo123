@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 
   <br><br>
-  <p><strong>Tecnologias</strong></p>
+  <p><strong>Tecnologias e Ferramentas</strong></p>
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase" alt="Firebase"/>
 

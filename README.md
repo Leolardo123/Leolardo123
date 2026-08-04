@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <h2>🛠️ Tecnologias e Ferramentas</h2>
+  <h2>🛠️ Principais Tecnologias & Ferramentas</h2>
   
   <p><strong>Linguagens</strong></p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
@@ -26,6 +26,8 @@
   <br><br>
   <p><strong>Front-end</strong></p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJs"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 
   <br><br>
   <p><strong>Tecnologias e Ferramentas</strong></p>

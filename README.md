@@ -7,19 +7,41 @@
 </div>
 
 ---
+<div align="left">
+Sou **Leonardo Ferreira**, Desenvolvedor Backend com experiência profissional principalmente no ecossistema **Node.js e TypeScript**, atuando no desenvolvimento e manutenção de aplicações web e APIs.
+
+Ao longo da minha experiência profissional, trabalhei em projetos de diferentes segmentos, como **educação, e-commerce, mobilidade, delivery, comunicação e gestão**, participando desde a implementação de funcionalidades até a investigação e correção de problemas de produção.
+
+Tenho maior afinidade com backend e me interesso principalmente por:
+
+* Desenvolvimento de **APIs REST** e integrações com serviços externos;
+* Modelagem e otimização de bancos de dados, principalmente **PostgreSQL**;
+* Processamento assíncrono, **filas, cronjobs e jobs em background**;
+* Cache e otimização de aplicações utilizando **Redis**;
+* Consultas e operações **geoespaciais com PostGIS**;
+* Identificação e correção de problemas de **performance, concorrência e consistência**;
+* Testes e automação de processos;
+* Arquitetura e evolução de sistemas existentes.
+
+Também tenho experiência com **React e Next.js**, em projetos nos quais atuei ou atuo como Full Stack, embora meu principal foco seja o desenvolvimento backend.
+
+Atualmente, utilizo este GitHub para registrar projetos, estudos e experimentos, além de explorar novas tecnologias e aprofundar meus conhecimentos em desenvolvimento de software.
+
+</div>
+
+<br>
 
 <div align="center">
-  <h2>🛠️ Principais Tecnologias & Ferramentas</h2>
+  <h1>🛠️ Principais Tecnologias & Ferramentas</h1>
   
   <p><strong>Linguagens</strong></p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   
   <br><br>
   <p><strong>Back-end</strong></p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js"/>
   <br>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   
@@ -36,7 +58,8 @@
 
   <br>
   <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean"/>
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </div>
 
 ---

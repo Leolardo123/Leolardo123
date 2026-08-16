@@ -10,22 +10,21 @@
 <div align="left">
 Sou Leonardo Ferreira, Desenvolvedor Backend com experiência profissional principalmente no ecossistema Node.js e TypeScript, atuando no desenvolvimento e manutenção de aplicações web e APIs.
 
-Ao longo da minha experiência profissional, trabalhei em projetos de diferentes segmentos, como **educação, e-commerce, mobilidade, delivery, comunicação e gestão**, participando desde a implementação de funcionalidades até a investigação e correção de problemas de produção.
+Ao longo da minha experiência profissional, trabalhei em projetos de diferentes segmentos, como **educação, e-commerce, mobilidade, delivery, OCR's, comunicação e gestão**, participando desde a implementação de funcionalidades até a investigação e correção de problemas de produção.
 
 Tenho maior afinidade com backend e me interesso principalmente por:
 
 * Desenvolvimento de **APIs REST** e integrações com serviços externos;
-* Modelagem e otimização de bancos de dados, principalmente **PostgreSQL**;
-* Processamento assíncrono, **filas, cronjobs e jobs em background**;
-* Cache e otimização de aplicações utilizando **Redis**;
-* Consultas e operações **geoespaciais com PostGIS**;
+* Modelagem e otimização de bancos de dados;
+* Processamento assíncrono, como **filas, cronjobs e jobs em background**;
+* Cache e otimização de aplicações utilizando **Redis**, **Cache em Memória**, similares;
+* Consultas e operações com mapas, como  queries geoespaciais com **PostGIS** e ferramentas como **QGIS**;
 * Identificação e correção de problemas de **performance, concorrência e consistência**;
 * Testes e automação de processos;
 * Arquitetura e evolução de sistemas existentes.
+* Criação de módulos reutilizáveis, como providers de API's externas;
 
-Também tenho experiência com **React e Next.js**, em projetos nos quais atuei ou atuo como Full Stack, embora meu principal foco seja o desenvolvimento backend.
-
-Atualmente, utilizo este GitHub para registrar projetos, estudos e experimentos, além de explorar novas tecnologias e aprofundar meus conhecimentos em desenvolvimento de software.
+Atualmente estou aprofundando meu aprendizado de Frontend com **Next.js** e **TailwindCss**;
 
 </div>
 
@@ -37,7 +36,7 @@ Atualmente, utilizo este GitHub para registrar projetos, estudos e experimentos,
   <p><strong>Linguagens</strong></p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <br><br>
   <p><strong>Back-end</strong></p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>

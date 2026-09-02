@@ -12,7 +12,7 @@ Sou Leonardo Ferreira, Desenvolvedor Backend com experiência profissional princ
 
 Ao longo da minha experiência profissional, trabalhei em projetos de diferentes segmentos, como **educação, e-commerce, mobilidade, delivery, OCR's, comunicação e gestão**, participando desde a implementação de funcionalidades até a investigação e correção de problemas de produção.
 
-Tenho maior afinidade com backend e me interesso principalmente por:
+Me interesso principalmente por:
 
 * Desenvolvimento de **APIs REST** e integrações com serviços externos;
 * Modelagem e otimização de bancos de dados;

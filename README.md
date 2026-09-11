@@ -21,7 +21,7 @@ Me interesso principalmente por:
 * Consultas e operações com mapas, como  queries geoespaciais com **PostGIS** e ferramentas como **QGIS**;
 * Identificação e correção de problemas de **performance, concorrência e consistência**;
 * Testes e automação de processos;
-* Arquitetura e evolução de sistemas existentes.
+* Arquitetura e evolução de sistemas existentes;
 * Criação de módulos reutilizáveis, como providers de API's externas;
 
 Atualmente estou aprofundando meu aprendizado de Frontend com **Next.js** e **TailwindCss**;

@@ -1,7 +1,9 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=2255BB&section=header&text=Bem-vindo!&fontSize=30&fontColor=FFFFFF"/>
 </div>
+
 ---
+
 <div align="left">
 Sou Leonardo Ferreira, Desenvolvedor Backend com experiência profissional principalmente no ecossistema Node.js e TypeScript, atuando no desenvolvimento e manutenção de aplicações web e APIs.
 

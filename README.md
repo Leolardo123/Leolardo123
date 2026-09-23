@@ -7,7 +7,7 @@
 <div align="left">
 Sou Leonardo Ferreira, Desenvolvedor Backend com experiência profissional principalmente no ecossistema Node.js e TypeScript, atuando no desenvolvimento e manutenção de aplicações web e APIs.
 
-Ao longo da minha experiência profissional, trabalhei em projetos de diferentes segmentos, como **educação, e-commerce, mobilidade, delivery, OCR's, comunicação e gestão**, participando desde a implementação de funcionalidades até a investigação e correção de problemas de produção.
+Ao longo da minha experiência profissional - trabalhei em projetos de diferentes segmentos, como **educação, e-commerce, mobilidade, delivery, OCR's, comunicação e gestão**, participando desde a implementação de funcionalidades até a investigação e correção de problemas de produção.
 
 Me interesso principalmente por:
 
